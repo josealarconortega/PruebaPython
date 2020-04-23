@@ -1,4 +1,3 @@
-layout_pipenv
 
 #App Mode (development, staging, testing or production)
 export APP_SETTINGS=development
@@ -12,5 +11,4 @@ export SQLALCHEMY_TRACK_MODIFICATIONS=False
 export SQLALCHEMY_ECHO=False
 
 #Config
-export MUMMY_MONEY_INVESTMENT=500
-export MUMMY_MONEY_COMMISSION=100
+export url_api = https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson
