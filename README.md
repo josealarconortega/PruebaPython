@@ -12,6 +12,7 @@ pipenv shell
 
 pipenv install
 
+#Se debe renombrar el archivo .env.example a .env
 #para iniciar el proyecto
 
 python wsgi.py
