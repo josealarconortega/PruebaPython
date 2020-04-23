@@ -1,17 +1,18 @@
 # PruebaPython
 
-#Para instalar pipenv se debe ejecutar
+Para instalar pipenv se debe ejecutar
 
 pip install pipenv
 
-#Para iniciar el entorno virtual
+Para iniciar el entorno virtual
 
 pipenv shell
 
-#Para instalar dependencias
+Para instalar dependencias
 
 pipenv install
 
-#para iniciar el proyecto
+Se debe renombrar el archivo .env.example a .env
+para iniciar el proyecto
 
 python wsgi.py
