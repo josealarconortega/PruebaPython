@@ -17,7 +17,7 @@ pylint = "*"
 requests = "*"
 python-dotenv = "*"
 gunicorn = "*"
-aiohttp = "==3.6.0"
+aiohttp = "==3.7.4"
 asyncio = "*"
 
 [requires]
